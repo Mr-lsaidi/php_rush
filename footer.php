@@ -1,0 +1,1 @@
+<div class="footer">All copyright are reserved to amoutik and lsaidi <strong>&copy; 2019 - 1337</strong>.</div>
