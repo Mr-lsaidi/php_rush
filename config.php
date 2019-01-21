@@ -2,7 +2,7 @@
 
     function connect()
     {
-        $connection = mysqli_connect("172.19.0.1:3306", "root", "tiger", "ft_minishop");
-        return $connection;
+		$connection = mysqli_connect("YourIP", "YourUserName", "YourPassword", "TheNameOfDataBase");
+		return $connection;
     }
 ?>
